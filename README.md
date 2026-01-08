@@ -32,7 +32,7 @@
 
 <p align="center">
 🚀 <strong>Portfolio:</strong>
-<a href="https://shraddhayewale.netlify.app" target="_blank">
+<a href="https://app.netlify.com/teams/shraddhayewale/projects" target="_blank">
 https://shraddhayewale.netlify.app
 </a>
 </p>
@@ -140,7 +140,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShraddhaYewa
 I’m open to **internships, fresher roles, and collaborative projects**.
 
 📧 Email: shraddhaky1007@gmail.com  
-🌐 Portfolio: https://shraddhayewale.netlify.app  
+🌐 Portfolio:https://app.netlify.com/teams/shraddhayewale/projects
 🐙 GitHub: https://github.com/ShraddhaYewale  
 
 <div align="center">
