@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-<a href="https://shraddhayewale.netlify.app" target="_blank">
+<a href="https://app.netlify.com/teams/shraddhayewale/projects" target="_blank">
 <img src="https://skillicons.dev/icons?i=netlify" width="50" height="50" alt="Portfolio" />
 </a>
 &nbsp;&nbsp;
