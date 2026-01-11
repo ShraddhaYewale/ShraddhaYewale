@@ -124,10 +124,6 @@ Secure password management web application
 Enterprise-style financial & product management system  
 **Tech:** ASP.NET, C#, SQL Server, Crystal Reports  
 
-### 🎉 Event Management Website
-Event listing and booking platform  
-**Tech:** HTML, CSS, JavaScript  
-
 ---
 
 ## 📊 GitHub Analytics
@@ -146,8 +142,8 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShraddhaYewa
 
 I’m open to **internships, fresher roles, and collaborative projects**.
 
-📧 Email: shraddhaky1007@gmail.com  
-🌐 Portfolio:https://app.netlify.com/teams/shraddhayewale/projects
+📧 Email: shraddhaky1007@gmail.com     <br/>
+🌐 Portfolio:https://app.netlify.com/teams/shraddhayewale/projects       <br/>
 🐙 GitHub: https://github.com/ShraddhaYewale  
 
 <div align="center">
