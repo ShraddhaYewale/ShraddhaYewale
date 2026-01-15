@@ -1,5 +1,5 @@
 <div align="center">
-
+ 
 ![Header](./header.svg)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=1e3a8a&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%92%BB;ASP.NET+%7C+React+%7C+SQL+Server;Building+Clean+and+Practical+Web+Applications;Learning+%E2%80%A2+Building+%E2%80%A2+Growing" alt="Typing SVG" />
