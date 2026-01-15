@@ -126,17 +126,6 @@ Enterprise-style financial & product management system
 
 ---
 
-## 📊 GitHub Analytics
-<div align="center">
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=ShraddhaYewale&show_icons=true&hide_border=true&theme=transparent" />
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShraddhaYewale&layout=compact&hide_border=true&theme=transparent" />
-</div>
-
----
-
 ### 📫 Let’s Connect
 
 I’m open to **internships, fresher roles, and collaborative projects**.
